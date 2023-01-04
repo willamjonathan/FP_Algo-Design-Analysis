@@ -14,6 +14,10 @@ There are 2 files here: <br><br>
 
 The ADA-FP-PYGAME file: contains the code of our program.<br>
 The Report: contains the report which include the problem statement, flow, manuals, etc. <br>
+
+<br>
+<h1> MANUALS: </h1> <br>
+To run the program please download all the files in the folder ADA-FP-PYGAME. Do not forget to install the pygame first, and to make sure the calculation of the time and memory accurate, please close all of the running files in your computer before exeecuting the program!<br>
   
   
 <br><br>
