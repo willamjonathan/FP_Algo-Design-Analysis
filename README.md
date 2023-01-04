@@ -1,7 +1,7 @@
 <b><h1>Algorithm and Design Analysis:</h1></b>
 <h3><b>Dear reader,</h3>
 <br>
-<t>This github repository contains the files that is used to create our Final Project for Algorithm and Design Analysis Final Project.<br>
+<t>This github repository contains the files that is used to create our Final Project for Algorithm and Design Analysis Final Project.<br><br>
 The team members: <br><br>
 1.William Jonathan Mulyadi // 2502045683<br>
 2.Anisa Dzikra // 2502043116<br>
