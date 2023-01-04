@@ -35,6 +35,7 @@ def selectionSort(x):
              
             # place the element in temp at min_index
             x[min_index] = temp
+    print("Memory taken when running the program:", tracemalloc.get_traced_memory())
     #displaying the memory after calling the  recursion
     tracemalloc.stop()
     et = time.time()
@@ -42,5 +43,5 @@ def selectionSort(x):
     elapsed_time = et - st
     #trying it in milisec
     r = elapsed_time *1000
-    print('Insertion sort execution time:', r, 'miliseconds')
+    print('Selection sort execution time:', r, 'miliseconds')
     return x
