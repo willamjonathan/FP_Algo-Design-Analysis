@@ -17,7 +17,7 @@ The Report: contains the report which include the problem statement, flow, manua
 
 <br>
 <h1> MANUALS: </h1> <br>
-To run the program please download all the files in the folder ADA-FP-PYGAME.<br> Then run the files <b>runpage.py</b>.<br>Do not forget to install the pygame first, and to make sure the calculation of the time and memory accurate, please close all of the running files in your computer before exeecuting the program!<br>
+To run the program please download all the files in the folder ADA-FP-PYGAME.<br> Then run the file <b>runpage.py</b>.<br>Do not forget to install the pygame first, and to make sure the calculation of the time and memory accurate, please close all of the running files in your computer before exeecuting the program!<br>
 
 
   
