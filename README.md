@@ -8,11 +8,11 @@ The team members: <br><br>
 3.Hansel Faren // 2501990350 <br>
 
 <br><br>
-There are 2 files here: <br>
-1. ADA<br>
-2. Report<br>
+There are 2 files here: <br><br>
+1. ADA-FP-PYGAME<br>
+2. Report<br><br>
 
-The ADA file: contains the code of our program.<br>
+The ADA-FP-PYGAME file: contains the code of our program.<br>
 The Report: contains the report which include the problem statement, flow, manuals, etc. <br>
   
   
