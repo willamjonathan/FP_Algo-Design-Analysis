@@ -10,8 +10,8 @@ The team members: <br><br>
 <br><br>
 There are 3 files here: <br><br>
 1. ADA-FP-PYGAME<br>
-2. Report<br><br>
-3. bogo-7strings.py<br>
+2. Report<br>
+3. bogo-7strings.py<br><br>
 
 The ADA-FP-PYGAME file: contains the code of our program.<br>
 The Report: contains the report which include the problem statement, flow, manuals, etc. <br>
