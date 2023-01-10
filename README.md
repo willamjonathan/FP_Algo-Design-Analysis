@@ -24,7 +24,7 @@ To run the program please download all the files in the folder ADA-FP-PYGAME.<br
 - THE EXCEL FILE IS IN THE ADA-FP-PYGAME<br>
 
 <h1>Video Demonstration:</h1><br>
-Link: https://youtu.be/kzjbQ6nlYts<br><br>
+Link: https://youtu.be/kzjbQ6nlYts](https://www.youtube.com/watch?v=fQl_hMeWwhk<br><br>
 Presentation Link: https://www.canva.com/design/DAFWyN4PJoE/rxOfBNAxhohrajE8qkO1bg/edit?utm_content=DAFWyN4PJoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>
   
   
