@@ -20,6 +20,7 @@ The bogo-7strings.py file: contains simple implementation of the bogo sorting al
 <br>
 <h1> MANUALS: </h1> <br>
 To run the program please download all the files in the folder ADA-FP-PYGAME.<br> Then run the file <b>runpage.py</b>.<br>Do not forget to install the pygame first, and to make sure the calculation of the time and memory accurate, please close all of the running files in your computer before exeecuting the program!<br>
+- Do not forget to check your IDE terminal! (username: Admin password: password)<br>
 - THE EXCEL FILE IS IN THE ADA-FP-PYGAME<br>
 
 <h1>Video Demonstration:</h1><br>
